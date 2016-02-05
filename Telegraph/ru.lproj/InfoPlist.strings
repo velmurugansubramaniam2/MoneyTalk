@@ -1,0 +1,13 @@
+/* 
+  InfoPlist.strings
+  Telegraph
+
+  Created by spb-EOrlova on 18.12.15.
+
+*/
+
+"CFBundleDisplayName" = "MoneyTalk";
+
+"NSContactsUsageDescription" = "";
+"NSLocationWhenInUseUsageDescription" = "";
+"NSLocationAlwaysUsageDescription" = "";
